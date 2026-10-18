@@ -1,0 +1,36 @@
+# Personal operating system files. Never commit these (personal details + a
+# third party company name). Local copies only.
+Sifeddine_OS.md
+Sifeddine_SSOT.md
+Sifeddine_System_Instructions.md
+RULES.md
+
+# Local scratch and internal-only specs
+PRD.md
+docs/internal/
+*.local.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# Secrets: nothing in this repo is secret, but the rule stands
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Node (the future product build)
+node_modules/
+dist/
+build/
+.vite/
+coverage/
+*.log
+npm-debug.log*
+pnpm-debug.log*
