@@ -96,6 +96,8 @@ Read this file first, then [docs/CONCEPT.md](docs/CONCEPT.md), then `poc/index.h
 
 ## License
 
-Proprietary. All rights reserved. See [LICENSE](LICENSE). Reading, running and sharing the link are permitted. Reuse is not.
+[AGPL-3.0](LICENSE), the same license used on [djazayer-khadhra](https://github.com/Meykiio/djazayer-khadhra).
+
+Open source, with one condition that matters: anyone who modifies this or runs it as a service must publish their changes. A company cannot take it, close it, and compete. Copy it, fork it, deploy it, improve it. Keep the result open.
 
 Built by [Sifeddine Mebarki](https://github.com/Meykiio).

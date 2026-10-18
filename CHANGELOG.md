@@ -18,7 +18,7 @@ All notable changes to this repository. Dates are 2026.
 - `docs/RISKS.md`: risks ordered by damage, how each gets tested, and the three results that would end the project.
 - `docs/LATER.md`: speculative directions, explicitly not a roadmap, plus what is out of scope and why.
 - `docs/PROJECT.md`: state, conventions, naming rules, and instructions for agents working on this repository.
-- `LICENSE`: proprietary, all rights reserved. No open-source licence is granted.
+- `LICENSE`: AGPL-3.0, the same license as `djazayer-khadhra`. Open source, with network use and modification required to stay open.
 - `.gitignore`, including an explicit exclusion of `Sifeddine_OS.md` and the local PRD.
 - GitHub Pages, serving the proof of concept at `meykiio.github.io/yuno`.
 
@@ -32,3 +32,7 @@ All notable changes to this repository. Dates are 2026.
 
 - The internal PRD is deliberately not in this repository. It names a third party's company and frames the wedge around a specific regional language, both of which conflict with the English-only, any-industry positioning used publicly.
 - No number in the proof of concept is presented as more certain than its source. Simulated content is labelled as simulated on the page itself.
+
+### Changed
+
+- Licence switched from proprietary to AGPL-3.0 after the first commit, at the owner's decision. README, `docs/PROJECT.md`, the proof of concept footer and this file were updated to match, so no stale reference remains.

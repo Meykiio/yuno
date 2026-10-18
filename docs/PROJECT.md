@@ -56,4 +56,4 @@ See [../CHANGELOG.md](../CHANGELOG.md).
 
 ## Ownership
 
-[Sifeddine Mebarki](https://github.com/Meykiio). Proprietary, all rights reserved. See [../LICENSE](../LICENSE).
+[Sifeddine Mebarki](https://github.com/Meykiio). Licensed under AGPL-3.0, the same license as [djazayer-khadhra](https://github.com/Meykiio/djazayer-khadhra): open source, with network use and modification required to stay open. Copy, fork, deploy, improve. Keep the result open.
